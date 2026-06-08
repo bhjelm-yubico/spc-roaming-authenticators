@@ -4,3 +4,5 @@ Secure Payment Confirmation (SPC) (https://github.com/w3c/secure-payment-confirm
 
 ## Terminology
 The use of terms "MUST", "SHOULD", and "MAY" are defined in [RFC2119] (https://datatracker.ietf.org/doc/html/rfc2119).
+
+## Requirements
